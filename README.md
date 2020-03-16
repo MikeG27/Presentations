@@ -1,7 +1,7 @@
 # BigData-Presentation
 
 
-My basic presentation about big data technology
+## My basic presentation about big data technology
 
 
 Topics : 
@@ -16,7 +16,7 @@ Topics :
 * Execution plan
 * DataFrame
 
-Example slides : 
+## Example slides : 
 
 ![Zrzut ekranu 2020-03-16 o 15 04 13](https://user-images.githubusercontent.com/21131348/76766004-9e31ae00-6797-11ea-9cab-a7b6e39d8f36.png)
 
